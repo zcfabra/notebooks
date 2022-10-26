@@ -3,3 +3,6 @@
 weights/
 
 data/
+
+.env
+
