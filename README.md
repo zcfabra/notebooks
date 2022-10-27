@@ -9,11 +9,11 @@ Some ML implementations. Mainly PyTorch, some Tensorflow eventually
 - [x] Vanilla GAN
 - [x] DCGAN
 - [x] SRGAN (not uploaded yet)
-- [] PROGAN
-- [] Neural Style Transfer
+- [ ] PROGAN
+- [ ] Neural Style Transfer
 
-- [] Deep Q Learning
-- [] MCTS
-- [] MuZero
+- [ ] Deep Q Learning
+- [ ] MCTS
+- [ ] MuZero
 
 
