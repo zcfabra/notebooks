@@ -12,7 +12,7 @@ Some ML implementations. Mainly PyTorch, some Tensorflow eventually
 - [ ] PROGAN
 - [ ] Neural Style Transfer
 
-- [ ] Deep Q Learning
+- [x] Deep Q Learning
 - [ ] MCTS
 - [ ] MuZero
 
